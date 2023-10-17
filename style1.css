@@ -1,0 +1,23 @@
+.bfghf {
+  font-family: 'Outfit', sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 20px;
+  border: 2.5px solid ;
+  background: #0000ff;
+  letter-spacing: 5px;
+  background-size: 200% auto;
+}
+{background-color: yellow;}
+.bfghf:hover {
+  background: #ffffff;
+  color: black;
+}
+.textiksaita {font-family: 'Outfit', sans-serif;
+}
+.adkas {font-family: 'PT Sans', sans-serif;
+color: #120a8f;
+}
